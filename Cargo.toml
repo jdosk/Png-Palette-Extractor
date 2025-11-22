@@ -1,0 +1,9 @@
+[package]
+name = "Png-Palette-Extractor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.100"
+png = "0.18.0"
+rfd = "0.15.4"
