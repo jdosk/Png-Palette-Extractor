@@ -1,0 +1,14 @@
+/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/deps/serde-10d596c658ad988b.d: /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/build/serde-4533d8a8cf5fb76e/out/private.rs
+
+/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/deps/libserde-10d596c658ad988b.rlib: /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/build/serde-4533d8a8cf5fb76e/out/private.rs
+
+/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/deps/libserde-10d596c658ad988b.rmeta: /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/build/serde-4533d8a8cf5fb76e/out/private.rs
+
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/build/serde-4533d8a8cf5fb76e/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/build/serde-4533d8a8cf5fb76e/out

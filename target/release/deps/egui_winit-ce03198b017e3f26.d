@@ -1,0 +1,10 @@
+/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/deps/egui_winit-ce03198b017e3f26.d: /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/lib.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/clipboard.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/safe_area.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/window_settings.rs
+
+/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/deps/libegui_winit-ce03198b017e3f26.rlib: /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/lib.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/clipboard.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/safe_area.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/window_settings.rs
+
+/Users/jdoskocil/RustProjects/Png-Palette-Extractor/target/release/deps/libegui_winit-ce03198b017e3f26.rmeta: /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/lib.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/clipboard.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/safe_area.rs /Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/window_settings.rs
+
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/lib.rs:
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/clipboard.rs:
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/safe_area.rs:
+/Users/jdoskocil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.33.2/src/window_settings.rs:
